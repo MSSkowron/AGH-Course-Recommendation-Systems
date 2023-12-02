@@ -7,3 +7,5 @@ This repository contains solutions for the Recommendation Systems course at AGH 
 - [**L2: Bandits**](./L2-Bandits/)
 
 - [**L3: Segmentation**](./L3-Segmentation/)
+
+- [**L4: News**](./L4-News/)
