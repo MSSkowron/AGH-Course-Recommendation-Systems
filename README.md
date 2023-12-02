@@ -9,3 +9,5 @@ This repository contains solutions for the Recommendation Systems course at AGH 
 - [**L3: Segmentation**](./L3-Segmentation/)
 
 - [**L4: News**](./L4-News/)
+
+- [**L5: Group Recommenders**](./L5-GroupRecommenders/)
