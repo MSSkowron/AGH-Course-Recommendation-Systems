@@ -1,4 +1,4 @@
-# Recommendation_Systems_AGH_Course
+# Recommendation Systems
 
 This repository contains solutions for the Recommendation Systems course at AGH University of Science and Technology.
 
